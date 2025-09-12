@@ -25,9 +25,9 @@
 ---
 
 ## 🚀 Projects  
-- [🔗 AI Resume Screener](https://github.com/thejeesh007/Tamil-sentence-modernizer) — Tamil-Sentence modernizer model 
+- [🔗 Tamil sentence modernizer](https://github.com/thejeesh007/Tamil-sentence-modernizer) — Tamil-Sentence modernizer model 
 - [🔗 StudySphere](https://github.com/thejeesh007/StudySphere) — AI study tool with flashcards, quiz mode, summarizer  
-- [🔗 Virtual Try-On](https://github.com/thejeesh007/DOSC-Dressfit) — 3D clothing try-on with React + Three.js  
+- [🔗 DressFit](https://github.com/thejeesh007/DOSC-Dressfit) — 3D clothing try-on with React + Three.js  
 
 ---
 
@@ -45,11 +45,13 @@
 </p>
 
 ---
-## 🏆 GitHub Trophies
+## 💡 Dev Quote
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thejeesh007&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
+
 ---
+
 ## 🏆 Achievements  
 
 - 📜 Certifications: IBM - Gen Ai 

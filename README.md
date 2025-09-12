@@ -39,11 +39,17 @@
 
 ---
 
-## 🔥 Contribution Graph  
-[![Thejeesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thejeesh007&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=thejeesh007&theme=radical" alt="GitHub Streak"/>
+</p>
 
 ---
-
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thejeesh007&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+---
 ## 🏆 Achievements  
 
 - 📜 Certifications: IBM - Gen Ai 
@@ -55,8 +61,4 @@
   <a href="https://www.linkedin.com/in/thejeesh-g-a53a40337/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
   <a href="https://portfolio-thejeesh.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 </p>
----
-## 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thejeesh007&style=for-the-badge&color=ff69b4">
-</p>
+

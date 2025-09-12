@@ -55,3 +55,8 @@
   <a href="https://www.linkedin.com/in/thejeesh-g-a53a40337/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
   <a href="https://portfolio-thejeesh.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white&style=for-the-badge"/></a>
 </p>
+---
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thejeesh007&style=for-the-badge&color=ff69b4">
+</p>

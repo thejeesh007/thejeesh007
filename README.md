@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me  
 - 🎓 I’m a Third year Computer Science student passionate about **AI, Web Development, and Networking**  
-- 🌱 Currently learning **Vlockchain, BackEnd Development**  
+- 🌱 Currently learning **Blockchain, BackEnd Development**  
 - 💡 Love solving problems & building impactful projects  
 - 📫 Reach me at: **thejeesh.g2023@vitstudent.ac.in**  
 
